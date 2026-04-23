@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.02717,
+    "announcement_date": "2015-03-05",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.33"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828J68",
+    "dated_date": "2015-03-15",
+    "high_price": [
+        "99.694198"
+    ],
+    "high_yield": [
+        "1.104"
+    ],
+    "investment_rate": "1.000",
+    "issue_date": "2015-03-16",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.900"
+    ],
+    "mature_security_amount": 34221000000.0,
+    "maturity_date": "2018-03-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "1.080"
+    ],
+    "offering_amount": 24.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20150310_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "3-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "24000036900"
+    ]
+}

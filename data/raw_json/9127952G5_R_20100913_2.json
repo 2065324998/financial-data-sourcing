@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2010-09-09",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "4.57"
+    ],
+    "currently_outstanding": "",
+    "cusip": "9127952G5",
+    "dated_date": null,
+    "high_price": [
+        "99.903944"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": "0.193",
+    "issue_date": "2010-09-16",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 150004000000.0,
+    "maturity_date": "2011-03-17",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 29.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20100913_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "26-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "29001257600"
+    ]
+}

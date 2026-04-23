@@ -1,0 +1,52 @@
+{
+    "accrued_interest": 6.59006,
+    "announcement_date": "2007-10-09",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.05"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828GX2",
+    "dated_date": null,
+    "high_price": [
+        "102.721944"
+    ],
+    "high_yield": [
+        "2.36"
+    ],
+    "investment_rate": "2.625",
+    "issue_date": "2007-10-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.25"
+    ],
+    "mature_security_amount": "",
+    "maturity_date": "2017-07-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.321"
+    ],
+    "offering_amount": 6.0,
+    "original_issue_date": "2007-07-16",
+    "reopening_indicator": "Y",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "9-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "6000020"
+    ]
+}

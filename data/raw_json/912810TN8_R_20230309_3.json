@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 2.80387,
+    "announcement_date": "2023-03-02",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.35"
+    ],
+    "currently_outstanding": 29207000000.0,
+    "cusip": "912810TN8",
+    "dated_date": "2023-02-15",
+    "high_price": [
+        "95.555716"
+    ],
+    "high_yield": [
+        "3.877"
+    ],
+    "investment_rate": "3.625",
+    "issue_date": "2023-03-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.770"
+    ],
+    "mature_security_amount": 30927000000.0,
+    "maturity_date": "2053-02-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.804"
+    ],
+    "offering_amount": 18.0,
+    "original_issue_date": "2023-02-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20230309_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "18000000000"
+    ]
+}

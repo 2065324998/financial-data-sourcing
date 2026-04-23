@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.25273,
+    "announcement_date": "2023-09-21",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.47"
+    ],
+    "currently_outstanding": "",
+    "cusip": "91282CHZ7",
+    "dated_date": "2023-09-30",
+    "high_price": [
+        "99.715829"
+    ],
+    "high_yield": [
+        "4.673"
+    ],
+    "investment_rate": "4.625",
+    "issue_date": "2023-10-02",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "4.540"
+    ],
+    "mature_security_amount": 112444000000.0,
+    "maturity_date": "2030-09-30",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.600"
+    ],
+    "offering_amount": 37.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20230928_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "7-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "37000026500"
+    ]
+}

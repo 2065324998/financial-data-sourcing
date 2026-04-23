@@ -1,0 +1,52 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2006-03-23",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.20"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912795XJ5",
+    "dated_date": "2005-12-29",
+    "high_price": [
+        "98.863764"
+    ],
+    "high_yield": [
+        "4.61"
+    ],
+    "investment_rate": null,
+    "issue_date": "2006-03-30",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 31828.0,
+    "maturity_date": "2006-06-29",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 17.0,
+    "original_issue_date": null,
+    "reopening_indicator": null,
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "13-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "6324019"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "23324056"
+    ]
+}

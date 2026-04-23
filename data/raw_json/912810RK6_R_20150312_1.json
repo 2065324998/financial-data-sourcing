@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 2.00276,
+    "announcement_date": "2015-03-05",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.18"
+    ],
+    "currently_outstanding": 16001000000.0,
+    "cusip": "912810RK6",
+    "dated_date": "2015-02-15",
+    "high_price": [
+        "96.289689"
+    ],
+    "high_yield": [
+        "2.681"
+    ],
+    "investment_rate": "2.500",
+    "issue_date": "2015-03-16",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.510"
+    ],
+    "mature_security_amount": 34221000000.0,
+    "maturity_date": "2045-02-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.622"
+    ],
+    "offering_amount": 13.0,
+    "original_issue_date": "2015-02-17",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20150312_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "13000001400"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2020-02-06",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.01"
+    ],
+    "currently_outstanding": 42968000000.0,
+    "cusip": "912796TV1",
+    "dated_date": null,
+    "high_price": [
+        "99.608194"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": "1.582",
+    "issue_date": "2020-02-13",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 85625000000.0,
+    "maturity_date": "2020-05-14",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 45.0,
+    "original_issue_date": "2019-11-14",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20200210_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "13-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "1293029600"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "46293277100"
+    ]
+}

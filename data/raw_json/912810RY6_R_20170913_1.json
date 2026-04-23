@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 2.31658,
+    "announcement_date": "2017-09-07",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.21"
+    ],
+    "currently_outstanding": 19513000000.0,
+    "cusip": "912810RY6",
+    "dated_date": "2017-08-15",
+    "high_price": [
+        "99.189503"
+    ],
+    "high_yield": [
+        "2.790"
+    ],
+    "investment_rate": "2.750",
+    "issue_date": "2017-09-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.188"
+    ],
+    "mature_security_amount": 27005000000.0,
+    "maturity_date": "2047-08-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.739"
+    ],
+    "offering_amount": 12.0,
+    "original_issue_date": "2017-08-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20170913_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "12000001700"
+    ]
+}

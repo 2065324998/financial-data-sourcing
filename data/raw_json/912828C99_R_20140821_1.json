@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2014-08-14",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.48"
+    ],
+    "currently_outstanding": 18000000000.0,
+    "cusip": "912828C99",
+    "dated_date": "2014-04-15",
+    "high_price": [
+        "103.623896"
+    ],
+    "high_yield": [
+        "-0.281"
+    ],
+    "investment_rate": "0.125",
+    "issue_date": "2014-08-29",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "-0.400"
+    ],
+    "mature_security_amount": 0.0,
+    "maturity_date": "2019-04-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "-0.329"
+    ],
+    "offering_amount": 16.0,
+    "original_issue_date": "2014-04-30",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20140821_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "4-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "16000008200"
+    ]
+}

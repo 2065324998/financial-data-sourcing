@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 1.40625,
+    "announcement_date": "2020-09-10",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.39"
+    ],
+    "currently_outstanding": 27172000000.0,
+    "cusip": "912810SQ2",
+    "dated_date": "2020-08-15",
+    "high_price": [
+        "98.449355"
+    ],
+    "high_yield": [
+        "1.213"
+    ],
+    "investment_rate": "1.125",
+    "issue_date": "2020-09-30",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.080"
+    ],
+    "mature_security_amount": 75108000000.0,
+    "maturity_date": "2040-08-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "1.160"
+    ],
+    "offering_amount": 22.0,
+    "original_issue_date": "2020-08-31",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20200915_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "19-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "3011904700"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "25011919600"
+    ]
+}

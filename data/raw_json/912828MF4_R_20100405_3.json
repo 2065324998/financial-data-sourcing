@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2010-04-01",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.43"
+    ],
+    "currently_outstanding": 10388000000.0,
+    "cusip": "912828MF4",
+    "dated_date": "2010-01-15",
+    "high_price": [
+        "97.219605"
+    ],
+    "high_yield": [
+        "1.709"
+    ],
+    "investment_rate": "1.375",
+    "issue_date": "2010-04-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "1.571"
+    ],
+    "mature_security_amount": 41030000000.0,
+    "maturity_date": "2020-01-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "1.650"
+    ],
+    "offering_amount": 8.0,
+    "original_issue_date": "2010-01-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20100405_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "9-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "585631700"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "8585632500"
+    ]
+}

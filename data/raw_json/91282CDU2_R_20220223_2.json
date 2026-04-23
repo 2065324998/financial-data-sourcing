@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.02203472,
+    "announcement_date": "2022-02-17",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.22"
+    ],
+    "currently_outstanding": 29887000000.0,
+    "cusip": "91282CDU2",
+    "dated_date": "2022-01-31",
+    "high_price": [
+        "100.068232"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": null,
+    "issue_date": "2022-02-25",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 0.0,
+    "maturity_date": "2024-01-31",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 22.0,
+    "original_issue_date": "2022-01-31",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20220223_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "1-YEAR",
+    "security_type": "FRN",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "-0.015",
+    "tendered": "",
+    "total_accepted": [
+        "22000223000"
+    ]
+}

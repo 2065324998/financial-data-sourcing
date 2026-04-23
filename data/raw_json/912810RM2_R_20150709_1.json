@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 4.97283,
+    "announcement_date": "2015-07-02",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.23"
+    ],
+    "currently_outstanding": 29362000000.0,
+    "cusip": "912810RM2",
+    "dated_date": "2015-05-15",
+    "high_price": [
+        "98.364175"
+    ],
+    "high_yield": [
+        "3.084"
+    ],
+    "investment_rate": "3.000",
+    "issue_date": "2015-07-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.934"
+    ],
+    "mature_security_amount": 52726000000.0,
+    "maturity_date": "2045-05-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.023"
+    ],
+    "offering_amount": 13.0,
+    "original_issue_date": "2015-05-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20150709_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "13000001200"
+    ]
+}

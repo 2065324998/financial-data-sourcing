@@ -1,0 +1,52 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2006-08-02",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "1.77"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810FT0",
+    "dated_date": null,
+    "high_price": [
+        "91.181992"
+    ],
+    "high_yield": [
+        "5.08"
+    ],
+    "investment_rate": "4.5",
+    "issue_date": "2006-08-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "4.99"
+    ],
+    "mature_security_amount": 22378.0,
+    "maturity_date": "2036-02-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "5.039"
+    ],
+    "offering_amount": 10.0,
+    "original_issue_date": "2006-02-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "1556557"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "11556625"
+    ]
+}

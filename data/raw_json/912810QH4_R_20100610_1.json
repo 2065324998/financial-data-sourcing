@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 3.68546,
+    "announcement_date": "2010-06-03",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.87"
+    ],
+    "currently_outstanding": 17394000000.0,
+    "cusip": "912810QH4",
+    "dated_date": "2010-05-15",
+    "high_price": [
+        "103.270808"
+    ],
+    "high_yield": [
+        "4.182"
+    ],
+    "investment_rate": "4.375",
+    "issue_date": "2010-06-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "4.080"
+    ],
+    "mature_security_amount": 13597000000.0,
+    "maturity_date": "2040-05-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.140"
+    ],
+    "offering_amount": 13.0,
+    "original_issue_date": "2010-05-17",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20100610_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "75028500"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "13075029400"
+    ]
+}

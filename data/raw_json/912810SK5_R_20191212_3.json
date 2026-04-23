@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 2.02266,
+    "announcement_date": "2019-12-05",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.46"
+    ],
+    "currently_outstanding": 27994000000.0,
+    "cusip": "912810SK5",
+    "dated_date": "2019-11-15",
+    "high_price": [
+        "101.461576"
+    ],
+    "high_yield": [
+        "2.307"
+    ],
+    "investment_rate": "2.375",
+    "issue_date": "2019-12-16",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.880"
+    ],
+    "mature_security_amount": 24000000000.0,
+    "maturity_date": "2049-11-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.265"
+    ],
+    "offering_amount": 16.0,
+    "original_issue_date": "2019-11-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20191212_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "16000006300"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.00691,
+    "announcement_date": "2020-10-22",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.41"
+    ],
+    "currently_outstanding": "",
+    "cusip": "91282CAR2",
+    "dated_date": "2020-10-31",
+    "high_price": [
+        "99.948240"
+    ],
+    "high_yield": [
+        "0.151"
+    ],
+    "investment_rate": "0.125",
+    "issue_date": "2020-11-02",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.050"
+    ],
+    "mature_security_amount": 136295000000.0,
+    "maturity_date": "2022-10-31",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "0.120"
+    ],
+    "offering_amount": 54.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20201027_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "2-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "5729057500"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "59729134900"
+    ]
+}

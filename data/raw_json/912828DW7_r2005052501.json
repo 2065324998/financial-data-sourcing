@@ -1,0 +1,52 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2005-05-23",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.36"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828DW7",
+    "dated_date": null,
+    "high_price": [
+        "99.780029"
+    ],
+    "high_yield": [
+        "3.615"
+    ],
+    "investment_rate": "3.5",
+    "issue_date": "2005-05-31",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.5"
+    ],
+    "mature_security_amount": 23905.0,
+    "maturity_date": "2007-05-31",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.598"
+    ],
+    "offering_amount": 22.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "2-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "7116233"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "29116266"
+    ]
+}

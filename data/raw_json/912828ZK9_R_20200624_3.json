@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.040280294,
+    "announcement_date": "2020-06-18",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.16"
+    ],
+    "currently_outstanding": 43911000000.0,
+    "cusip": "912828ZK9",
+    "dated_date": "2020-04-30",
+    "high_price": [
+        "100.063394"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": null,
+    "issue_date": "2020-06-26",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 0.0,
+    "maturity_date": "2022-04-30",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 20.0,
+    "original_issue_date": "2020-04-30",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20200624_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "1-YEAR",
+    "security_type": "FRN",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "0.114",
+    "tendered": "",
+    "total_accepted": [
+        "20000113800"
+    ]
+}

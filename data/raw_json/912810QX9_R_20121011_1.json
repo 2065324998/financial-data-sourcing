@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 4.55842,
+    "announcement_date": "2012-10-04",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.49"
+    ],
+    "currently_outstanding": 28995000000.0,
+    "cusip": "912810QX9",
+    "dated_date": "2012-08-15",
+    "high_price": [
+        "96.936227"
+    ],
+    "high_yield": [
+        "2.904"
+    ],
+    "investment_rate": "2.750",
+    "issue_date": "2012-10-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.797"
+    ],
+    "mature_security_amount": 39306000000.0,
+    "maturity_date": "2042-08-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.844"
+    ],
+    "offering_amount": 13.0,
+    "original_issue_date": "2012-08-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20121011_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "13000014200"
+    ]
+}

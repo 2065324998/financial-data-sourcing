@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.02378,
+    "announcement_date": "2010-02-18",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.33"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828MQ0",
+    "dated_date": "2010-02-28",
+    "high_price": [
+        "99.960486"
+    ],
+    "high_yield": [
+        "0.895"
+    ],
+    "investment_rate": "0.875",
+    "issue_date": "2010-03-01",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.800"
+    ],
+    "mature_security_amount": 26000000000.0,
+    "maturity_date": "2012-02-29",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "0.865"
+    ],
+    "offering_amount": 44.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20100223_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "2-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "1081378100"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "45081383400"
+    ]
+}

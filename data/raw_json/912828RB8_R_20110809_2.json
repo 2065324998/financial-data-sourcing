@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2011-08-03",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.29"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828RB8",
+    "dated_date": "2011-08-15",
+    "high_price": [
+        "100.000000"
+    ],
+    "high_yield": [
+        "0.500"
+    ],
+    "investment_rate": "0.500",
+    "issue_date": "2011-08-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.396"
+    ],
+    "mature_security_amount": 24430000000.0,
+    "maturity_date": "2014-08-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "0.480"
+    ],
+    "offering_amount": 32.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20110809_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "3-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "979857000"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "32980045100"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.24862,
+    "announcement_date": "2008-11-05",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.07"
+    ],
+    "currently_outstanding": 13728000000.0,
+    "cusip": "912810PX0",
+    "dated_date": "2008-11-15",
+    "high_price": [
+        "103.154521"
+    ],
+    "high_yield": [
+        "4.310"
+    ],
+    "investment_rate": "4.500",
+    "issue_date": "2008-11-17",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "4.095"
+    ],
+    "mature_security_amount": 54940000000.0,
+    "maturity_date": "2038-05-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.204"
+    ],
+    "offering_amount": 10.0,
+    "original_issue_date": "2008-08-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20081113_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "1777238500"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "11777282300"
+    ]
+}

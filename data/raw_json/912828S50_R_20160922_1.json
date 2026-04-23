@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2016-09-15",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.59"
+    ],
+    "currently_outstanding": 13000000000.0,
+    "cusip": "912828S50",
+    "dated_date": "2016-07-15",
+    "high_price": [
+        "101.115665"
+    ],
+    "high_yield": [
+        "0.052"
+    ],
+    "investment_rate": "0.125",
+    "issue_date": "2016-09-30",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "-0.050"
+    ],
+    "mature_security_amount": 87776000000.0,
+    "maturity_date": "2026-07-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "0.010"
+    ],
+    "offering_amount": 11.0,
+    "original_issue_date": "2016-07-29",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20160922_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "9-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "670542000"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "11670544400"
+    ]
+}

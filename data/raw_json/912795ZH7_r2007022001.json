@@ -1,0 +1,52 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2007-02-15",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.30"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912795ZH7",
+    "dated_date": "2006-11-24",
+    "high_price": [
+        "98.727264"
+    ],
+    "high_yield": [
+        "5.171"
+    ],
+    "investment_rate": null,
+    "issue_date": "2007-02-22",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 33993.0,
+    "maturity_date": "2007-05-24",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 20.0,
+    "original_issue_date": null,
+    "reopening_indicator": "Y",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "13-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "8163154"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "28163475"
+    ]
+}

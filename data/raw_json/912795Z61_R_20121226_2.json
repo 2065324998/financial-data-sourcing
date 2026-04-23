@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2012-12-20",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "4.06"
+    ],
+    "currently_outstanding": 28001000000.0,
+    "cusip": "912795Z61",
+    "dated_date": null,
+    "high_price": [
+        "99.978514"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": "0.086",
+    "issue_date": "2012-12-27",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 98991000000.0,
+    "maturity_date": "2013-03-28",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 32.0,
+    "original_issue_date": "2012-09-27",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20121226_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "13-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "32000392300"
+    ]
+}

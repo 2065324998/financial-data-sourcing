@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2011-11-02",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.40"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810QT8",
+    "dated_date": "2011-11-15",
+    "high_price": [
+        "98.579514"
+    ],
+    "high_yield": [
+        "3.199"
+    ],
+    "investment_rate": "3.125",
+    "issue_date": "2011-11-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.970"
+    ],
+    "mature_security_amount": 23934000000.0,
+    "maturity_date": "2041-11-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.100"
+    ],
+    "offering_amount": 16.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20111110_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "30-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "1224243600"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "17224269400"
+    ]
+}

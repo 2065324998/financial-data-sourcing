@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2014-04-30",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.09"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810RG5",
+    "dated_date": "2014-05-15",
+    "high_price": [
+        "98.789628"
+    ],
+    "high_yield": [
+        "3.440"
+    ],
+    "investment_rate": "3.375",
+    "issue_date": "2014-05-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.300"
+    ],
+    "mature_security_amount": 59303000000.0,
+    "maturity_date": "2044-05-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.366"
+    ],
+    "offering_amount": 16.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20140508_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "30-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "16000008800"
+    ]
+}

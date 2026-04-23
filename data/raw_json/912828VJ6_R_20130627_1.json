@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.05095,
+    "announcement_date": "2013-06-20",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.61"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828VJ6",
+    "dated_date": "2013-06-30",
+    "high_price": [
+        "99.628563"
+    ],
+    "high_yield": [
+        "1.932"
+    ],
+    "investment_rate": "1.875",
+    "issue_date": "2013-07-01",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "1.835"
+    ],
+    "mature_security_amount": 58271000000.0,
+    "maturity_date": "2020-06-30",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "1.898"
+    ],
+    "offering_amount": 29.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20130627_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "7-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "29000017500"
+    ]
+}

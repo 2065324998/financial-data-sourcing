@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 7.87364,
+    "announcement_date": "2025-07-03",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.38"
+    ],
+    "currently_outstanding": 56200000000.0,
+    "cusip": "912810UK2",
+    "dated_date": "2025-05-15",
+    "high_price": [
+        "97.817084"
+    ],
+    "high_yield": [
+        "4.889"
+    ],
+    "investment_rate": "4.750",
+    "issue_date": "2025-07-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.880"
+    ],
+    "mature_security_amount": 87567000000.0,
+    "maturity_date": "2055-05-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.838"
+    ],
+    "offering_amount": 22.0,
+    "original_issue_date": "2025-05-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20250710_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "29-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "2603115300"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "24603117400"
+    ]
+}

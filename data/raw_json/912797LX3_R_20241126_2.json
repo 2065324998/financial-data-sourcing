@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2024-11-21",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.61"
+    ],
+    "currently_outstanding": 159359000000.0,
+    "cusip": "912797LX3",
+    "dated_date": null,
+    "high_price": [
+        "99.484083"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": "4.617",
+    "issue_date": "2024-11-29",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 269987000000.0,
+    "maturity_date": "2025-01-09",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 80.0,
+    "original_issue_date": "2024-07-11",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20241126_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "0-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "80000047000"
+    ]
+}

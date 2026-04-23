@@ -1,0 +1,52 @@
+{
+    "accrued_interest": 3.57735,
+    "announcement_date": "2007-03-08",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.64"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828GH7",
+    "dated_date": null,
+    "high_price": [
+        "100.801596"
+    ],
+    "high_yield": [
+        "4.523"
+    ],
+    "investment_rate": "4.625",
+    "issue_date": "2007-03-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "4.46"
+    ],
+    "mature_security_amount": "",
+    "maturity_date": "2017-02-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.498"
+    ],
+    "offering_amount": 8.0,
+    "original_issue_date": "2007-02-15",
+    "reopening_indicator": "Y",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "9-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "8000005"
+    ]
+}

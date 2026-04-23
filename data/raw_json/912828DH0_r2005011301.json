@@ -1,0 +1,52 @@
+{
+    "accrued_interest": 0.13468,
+    "announcement_date": "2005-01-10",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "1.88"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828DH0",
+    "dated_date": null,
+    "high_price": [
+        "99.09064"
+    ],
+    "high_yield": [
+        "1.725"
+    ],
+    "investment_rate": "1.625",
+    "issue_date": "2005-01-18",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "1.0"
+    ],
+    "mature_security_amount": "",
+    "maturity_date": "2015-01-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "1.682"
+    ],
+    "offering_amount": 10.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "10-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "10000003"
+    ]
+}

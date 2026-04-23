@@ -1,0 +1,52 @@
+{
+    "accrued_interest": 1.06458,
+    "announcement_date": "2007-07-19",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.23"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810PS1",
+    "dated_date": null,
+    "high_price": [
+        "99.570169"
+    ],
+    "high_yield": [
+        "2.6"
+    ],
+    "investment_rate": "2.375",
+    "issue_date": "2007-07-31",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.55"
+    ],
+    "mature_security_amount": "",
+    "maturity_date": "2027-01-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.589"
+    ],
+    "offering_amount": 6.0,
+    "original_issue_date": "2007-01-31",
+    "reopening_indicator": "Y",
+    "results_pdf_name": "",
+    "security_term_month_year": "",
+    "security_term_week_year": "19-YEAR",
+    "security_type": "TIPS",
+    "soma_accepted": [
+        "1293924"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "7293925"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.06868,
+    "announcement_date": "2016-02-03",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.09"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810RQ3",
+    "dated_date": "2016-02-15",
+    "high_price": [
+        "99.999916"
+    ],
+    "high_yield": [
+        "2.500"
+    ],
+    "investment_rate": "2.500",
+    "issue_date": "2016-02-16",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.300"
+    ],
+    "mature_security_amount": 54405000000.0,
+    "maturity_date": "2046-02-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.391"
+    ],
+    "offering_amount": 15.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20160211_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "30-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "1177806200"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "16177830500"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2013-07-31",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.11"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912810RC4",
+    "dated_date": "2013-08-15",
+    "high_price": [
+        "99.510318"
+    ],
+    "high_yield": [
+        "3.652"
+    ],
+    "investment_rate": "3.625",
+    "issue_date": "2013-08-15",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.550"
+    ],
+    "mature_security_amount": 69557000000.0,
+    "maturity_date": "2043-08-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.599"
+    ],
+    "offering_amount": 16.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20130808_1.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "30-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "16000007000"
+    ]
+}

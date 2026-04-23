@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 5.87707,
+    "announcement_date": "2024-12-12",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.50"
+    ],
+    "currently_outstanding": 17088000000.0,
+    "cusip": "912810UF3",
+    "dated_date": "2024-11-15",
+    "high_price": [
+        "99.206641"
+    ],
+    "high_yield": [
+        "4.686"
+    ],
+    "investment_rate": "4.625",
+    "issue_date": "2024-12-31",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.880"
+    ],
+    "mature_security_amount": 98474000000.0,
+    "maturity_date": "2044-11-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "4.622"
+    ],
+    "offering_amount": 13.0,
+    "original_issue_date": "2024-12-02",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20241217_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "19-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "127871300"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "13127872900"
+    ]
+}

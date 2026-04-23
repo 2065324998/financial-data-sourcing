@@ -1,0 +1,54 @@
+{
+    "accrued_interest": "",
+    "announcement_date": "2022-06-23",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.84"
+    ],
+    "currently_outstanding": 55169000000.0,
+    "cusip": "912796U64",
+    "dated_date": null,
+    "high_price": [
+        "99.557639"
+    ],
+    "high_yield": [
+        null
+    ],
+    "investment_rate": "1.782",
+    "issue_date": "2022-06-30",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        null
+    ],
+    "mature_security_amount": 107989000000.0,
+    "maturity_date": "2022-09-29",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        null
+    ],
+    "offering_amount": 45.0,
+    "original_issue_date": "2022-03-31",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20220627_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "13-WEEK",
+    "security_type": "BILL",
+    "soma_accepted": [
+        "8126206500"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "53126280300"
+    ]
+}

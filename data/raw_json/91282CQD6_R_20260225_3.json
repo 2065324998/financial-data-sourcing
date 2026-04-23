@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.19022,
+    "announcement_date": "2026-02-19",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.32"
+    ],
+    "currently_outstanding": "",
+    "cusip": "91282CQD6",
+    "dated_date": "2026-02-28",
+    "high_price": [
+        "99.478439"
+    ],
+    "high_yield": [
+        "3.615"
+    ],
+    "investment_rate": "3.500",
+    "issue_date": "2026-03-02",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "3.500"
+    ],
+    "mature_security_amount": 140112000000.0,
+    "maturity_date": "2031-02-28",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "3.555"
+    ],
+    "offering_amount": 70.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20260225_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "5-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "8385621200"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "78385634900"
+    ]
+}

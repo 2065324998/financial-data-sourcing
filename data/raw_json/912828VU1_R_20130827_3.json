@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 0.03108,
+    "announcement_date": "2013-08-22",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "3.21"
+    ],
+    "currently_outstanding": "",
+    "cusip": "912828VU1",
+    "dated_date": "2013-08-31",
+    "high_price": [
+        "99.978190"
+    ],
+    "high_yield": [
+        "0.386"
+    ],
+    "investment_rate": "0.375",
+    "issue_date": "2013-09-03",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "0.330"
+    ],
+    "mature_security_amount": 59907000000.0,
+    "maturity_date": "2015-08-31",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "0.372"
+    ],
+    "offering_amount": 34.0,
+    "original_issue_date": null,
+    "reopening_indicator": "N",
+    "results_pdf_name": [
+        "R_20130827_3.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "2-YEAR",
+    "security_type": "NOTE",
+    "soma_accepted": [
+        "0"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "34000025500"
+    ]
+}

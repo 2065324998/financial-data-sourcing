@@ -1,0 +1,54 @@
+{
+    "accrued_interest": 4.25414,
+    "announcement_date": "2022-01-13",
+    "auction_close_date": "",
+    "auction_date": "",
+    "auction_result_date": "",
+    "auction_type": "",
+    "awarded": "",
+    "bid_to_cover_ratio": [
+        "2.48"
+    ],
+    "currently_outstanding": 47637000000.0,
+    "cusip": "912810TC2",
+    "dated_date": "2021-11-15",
+    "high_price": [
+        "96.646052"
+    ],
+    "high_yield": [
+        "2.210"
+    ],
+    "investment_rate": "2.000",
+    "issue_date": "2022-01-31",
+    "low_price": [
+        null
+    ],
+    "low_yield": [
+        "2.120"
+    ],
+    "mature_security_amount": 133872000000.0,
+    "maturity_date": "2041-11-15",
+    "median_price": [
+        null
+    ],
+    "median_yield": [
+        "2.150"
+    ],
+    "offering_amount": 20.0,
+    "original_issue_date": "2021-11-30",
+    "reopening_indicator": "Y",
+    "results_pdf_name": [
+        "R_20220119_2.pdf"
+    ],
+    "security_term_month_year": "",
+    "security_term_week_year": "19-YEAR",
+    "security_type": "BOND",
+    "soma_accepted": [
+        "2989254100"
+    ],
+    "spread": "",
+    "tendered": "",
+    "total_accepted": [
+        "22989260500"
+    ]
+}
