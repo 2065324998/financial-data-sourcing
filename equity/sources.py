@@ -43,11 +43,12 @@ class LiveWikipediaSource(WikipediaSource):
     }
 
     def _wiki_tables(self, url: str):
+        import io
         import pandas as pd
         import requests
         resp = requests.get(url, headers=self._HEADERS, timeout=30)
         resp.raise_for_status()
-        return pd.read_html(resp.text)
+        return pd.read_html(io.StringIO(resp.text))
 
     def fetch_sp500(self) -> List[Tuple[str, str]]:
         tables = self._wiki_tables("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")
