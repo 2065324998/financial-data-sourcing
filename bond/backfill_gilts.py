@@ -232,7 +232,6 @@ def _upload_price(
         return True
 
     from fintekkers.models.price.price_pb2 import PriceProto
-    from fintekkers.models.price.price_type_pb2 import ABSOLUTE
     from fintekkers.models.security.security_pb2 import SecurityProto
     from fintekkers.models.util.decimal_value_pb2 import DecimalValueProto
     from fintekkers.models.util.uuid_pb2 import UUIDProto
@@ -255,7 +254,6 @@ def _upload_price(
                 uuid=UUIDProto(raw_uuid=sec_uuid_obj.bytes),
                 is_link=True,
             ),
-            price_type=ABSOLUTE,
         ),
     )
 

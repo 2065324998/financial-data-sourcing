@@ -350,7 +350,6 @@ def load_prices_to_db(prices: list[SecurityPrice], dry_run: bool = False):
 
     import grpc
     from fintekkers.models.price.price_pb2 import PriceProto
-    from fintekkers.models.price.price_type_pb2 import PERCENTAGE
     from fintekkers.models.security.security_pb2 import SecurityProto
     from fintekkers.models.util.decimal_value_pb2 import DecimalValueProto
     from fintekkers.models.util.uuid_pb2 import UUIDProto
@@ -407,7 +406,6 @@ def load_prices_to_db(prices: list[SecurityPrice], dry_run: bool = False):
                     uuid=UUIDProto(raw_uuid=security_uuid.bytes),
                     is_link=True,
                 ),
-                price_type=PERCENTAGE,
             ),
         )
 

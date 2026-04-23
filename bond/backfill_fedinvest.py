@@ -123,7 +123,6 @@ def backfill(start: date, end: date, dry_run: bool = False) -> None:
     import grpc
     from fintekkers.models.security.security_pb2 import SecurityProto
     from fintekkers.models.util.uuid_pb2 import UUIDProto
-    from fintekkers.models.price.price_type_pb2 import PERCENTAGE
     from fintekkers.wrappers.requests.price import CreatePriceRequest
 
     cusip_lookup = _build_cusip_lookup()
@@ -209,9 +208,6 @@ def backfill(start: date, end: date, dry_run: bool = False) -> None:
                 ),
                 price_uuid=price_uuid,
             )
-            # Attach price_type (not yet in the wrapper)
-            request.proto.create_price_input.price_type = PERCENTAGE
-
             try:
                 stub.CreateOrUpdate(request.proto)
                 day_upserted += 1
