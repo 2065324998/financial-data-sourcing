@@ -166,10 +166,10 @@ if __name__ == "__main__":
     data: RawAuctionData = RawAuctionData.from_json(entry_json)
     print(data.get_issue_date())
 
-    from securities.treasury import upload_security_from_data_dict
+    from bond.treasury import upload_security_from_data_dict
     upload_security_from_data_dict(data)
 
-    from securities.treasury import get_security_by_id
+    from bond.treasury import get_security_by_id
     security = get_security_by_id(data.cusip, IdentifierTypeProto.CUSIP)
     print(security)
 
