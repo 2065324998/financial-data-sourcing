@@ -26,7 +26,7 @@ import time
 import uuid as _uuid
 from datetime import datetime
 
-
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 
 import pandas as pd
 import requests

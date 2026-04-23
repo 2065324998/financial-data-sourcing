@@ -28,6 +28,8 @@ import uuid
 from datetime import date, datetime, timedelta
 from typing import Dict, List, Optional, Tuple
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+
 from equity.sources import YahooFinanceSource, LiveYahooFinanceSource, MockYahooFinanceSource
 
 

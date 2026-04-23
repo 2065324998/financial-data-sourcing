@@ -43,6 +43,8 @@ import uuid
 from datetime import date, datetime, timedelta
 from typing import Optional
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+
 import requests
 from bs4 import BeautifulSoup
 
