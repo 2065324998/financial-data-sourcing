@@ -72,7 +72,7 @@ class LiveWikipediaSource(WikipediaSource):
         tables = self._wiki_tables("https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average")
         for df in tables:
             df.columns = [str(c).strip() for c in df.columns]
-            ticker_cols = [c for c in df.columns if "symbol" in c.lower() or "ticker" in c.lower() or "exchange" in c.lower()]
+            ticker_cols = [c for c in df.columns if "symbol" in c.lower() or "ticker" in c.lower()]
             name_cols = [c for c in df.columns if "company" in c.lower() or "name" in c.lower()]
             if ticker_cols and name_cols and 25 <= len(df) <= 35:
                 return [(str(row[ticker_cols[0]]).strip(), str(row[name_cols[0]]).strip()) for _, row in df.iterrows()]
