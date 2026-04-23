@@ -7,3 +7,6 @@ venv/
 *.egg-info/
 dist/
 build/
+
+# Keep fixture directory structure but not data
+!fixtures/**/.gitkeep
