@@ -64,7 +64,7 @@ from typing import Optional
 
 import requests
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 
 # ---------------------------------------------------------------------------
 # Constants

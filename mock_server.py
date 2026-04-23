@@ -27,16 +27,7 @@ import uuid
 from concurrent import futures
 from datetime import date, datetime
 
-# Add project root and ledger-models to path (same as other scripts in this repo)
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-_LEDGER_PATHS = [
-    os.path.expanduser("~/projects/ledger-models/ledger-models-python"),
-    os.path.expanduser("~/github/bot-farm/worktrees/lm-orchestrator/ledger-models-python"),
-]
-for _p in _LEDGER_PATHS:
-    if os.path.isdir(_p):
-        sys.path.insert(0, _p)
-        break
 
 import grpc
 

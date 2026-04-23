@@ -49,7 +49,7 @@ from bs4 import BeautifulSoup
 from bond.sources import FedInvestSource, LiveFedInvestSource, MockFedInvestSource
 
 # Add ledger-models Python to path for proto imports
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 
 # ---------------------------------------------------------------------------
 # Constants

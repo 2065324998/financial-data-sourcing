@@ -36,7 +36,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 
 from bond.convert_xml import convert_xml_to_json

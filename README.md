@@ -17,7 +17,6 @@ then loads them into the FinTekkers ledger via gRPC.
 | Source | Type | Script |
 |--------|------|--------|
 | [Wikipedia](https://en.wikipedia.org/) | S&P 500, Nasdaq-100, DJIA constituents | `equity/equities.py` |
-| Hardcoded (Q1 2026) | S&P 500 Index Composition | `equity/sp500_index.py` |
 | [Yahoo Finance](https://finance.yahoo.com/) | Equity closing prices | `equity/yahoo.py` |
 
 ## Project Structure
@@ -36,9 +35,8 @@ bond/                    BOND_SECURITY, TIPS, FRN
   download.py            TreasuryDirect XML downloader
   convert_xml.py         XML auction data -> JSON converter
 
-equity/                  EQUITY_SECURITY, EQUITY_INDEX_SECURITY
+equity/                  EQUITY_SECURITY
   equities.py            S&P 500, Nasdaq-100, Dow Jones constituents (from Wikipedia)
-  sp500_index.py         S&P 500 index composition loader
   yahoo.py               Yahoo Finance equity price loader
 
 auction_data.py          RawAuctionData model (Treasury auction results)

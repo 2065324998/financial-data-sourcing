@@ -30,7 +30,7 @@ from typing import Dict, List, Optional, Tuple
 
 from equity.sources import YahooFinanceSource, LiveYahooFinanceSource, MockYahooFinanceSource
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 
 # ---------------------------------------------------------------------------
 # Constants

@@ -25,7 +25,7 @@ import time
 import uuid
 from datetime import date, datetime, timedelta
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 # Allow running from repo root: python3 prices/backfill_fedinvest.py
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 

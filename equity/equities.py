@@ -26,7 +26,7 @@ import time
 import uuid as _uuid
 from datetime import datetime
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 
 import pandas as pd
 import requests

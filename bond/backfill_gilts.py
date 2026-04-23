@@ -42,7 +42,7 @@ import uuid
 from datetime import date, datetime
 from typing import List, Optional, Tuple
 
-sys.path.insert(0, os.path.expanduser("~/projects/ledger-models/ledger-models-python"))
+
 
 # ---------------------------------------------------------------------------
 # Constants
