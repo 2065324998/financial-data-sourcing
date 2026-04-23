@@ -1,6 +1,6 @@
 beautifulsoup4>=4.12
 certifi>=2022.12
-fintekkers-ledger-models>=0.1.91
+fintekkers-ledger-models==0.1.120
 grpcio>=1.53
 numpy>=1.24
 pandas>=2.0
