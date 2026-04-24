@@ -25,7 +25,7 @@ FIXTURES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fixture
 
 
 def fetch_fedinvest(dry_run: bool = False):
-    """Fetch ~25 trading days of FedInvest prices (~10,000 records)."""
+    """Fetch 5 years of FedInvest Treasury prices."""
     from bond.sources import LiveFedInvestSource
 
     out_dir = os.path.join(FIXTURES_DIR, "bond", "fedinvest")
@@ -33,14 +33,14 @@ def fetch_fedinvest(dry_run: bool = False):
 
     source = LiveFedInvestSource()
     end = date.today() - timedelta(days=1)
-    start = end - timedelta(days=40)  # ~25 trading days in 40 calendar days
+    start = end - timedelta(days=5 * 365)
     current = start
     total_records = 0
     days_fetched = 0
 
     print(f"FedInvest: fetching prices from {start} to {end}")
 
-    while current <= end and total_records < 12000:
+    while current <= end:
         if current.weekday() >= 5:
             current += timedelta(days=1)
             continue
@@ -119,7 +119,7 @@ def fetch_wikipedia(dry_run: bool = False):
 
 
 def fetch_yahoo(dry_run: bool = False):
-    """Fetch 60 days of prices for top 20 equities (~1,200 records)."""
+    """Fetch 5 years of prices for top 20 equities."""
     from equity.sources import LiveYahooFinanceSource
 
     out_dir = os.path.join(FIXTURES_DIR, "equity", "yahoo")
@@ -132,7 +132,7 @@ def fetch_yahoo(dry_run: bool = False):
         "ABBV", "CRM",
     ]
     end = date.today() - timedelta(days=1)
-    start = end - timedelta(days=90)
+    start = end - timedelta(days=5 * 365)
 
     print(f"Yahoo Finance: fetching {len(tickers)} tickers from {start} to {end}")
 
@@ -146,10 +146,15 @@ def fetch_yahoo(dry_run: bool = False):
         for ticker, ticker_prices in prices.items():
             if ticker_prices:
                 out_path = os.path.join(out_dir, f"{ticker}.json")
+                existing = {}
+                if os.path.exists(out_path):
+                    with open(out_path) as f:
+                        existing = json.load(f)
+                existing.update(ticker_prices)
                 with open(out_path, "w") as f:
-                    json.dump(ticker_prices, f, indent=2)
-                total += len(ticker_prices)
-                print(f"  {ticker}: {len(ticker_prices)} days")
+                    json.dump(dict(sorted(existing.items())), f, indent=2)
+                total += len(existing)
+                print(f"  {ticker}: {len(existing)} days")
         print(f"  Total: {total} price records\n")
     except Exception as e:
         print(f"  ERROR: {e}\n")
